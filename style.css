@@ -1,0 +1,27 @@
+body {
+    background-color: aqua;
+    font-family: 'Odibee Sans', cursive;
+
+}
+#heading {
+    font-size: 30px;
+    letter-spacing: 10px;
+    word-spacing: 20px;
+    width: 60%;
+}
+#objects {
+    font-size: 22px;
+    color:black
+}
+#camera, #snapshot {
+    border: black 2px dotted;
+    width: 300;
+    height: 300;
+}
+label, span{
+    color: palevioletred;
+    font-size: 25px;
+}
+.btn-success, .btn-info {
+    font-size: 22px;
+}
